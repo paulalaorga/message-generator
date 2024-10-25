@@ -17,6 +17,8 @@ header {
 
 main {
     padding: 2em;
+    justify-items: center;
+    
 }
 
 footer {
